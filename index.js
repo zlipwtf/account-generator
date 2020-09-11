@@ -1,5 +1,5 @@
 const Discord = require("discord.js");
-const bot = new Discord.Client();
+const bot = new Discord.Client(NzUzNDQwNDIwMjI2MTM4MTEz.X1mOEg.wSpkusN_6QRc_QDGj--zuKiroqQ);
 const prefix = "/";
 var fs = require("fs");
 var lineReader = require("line-reader");
